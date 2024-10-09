@@ -1,0 +1,11 @@
+ID,Name,Sales,Category,Status,Value,Comment
+1,Alice,150.0,Electronics,Complete,200.0,Good
+2,Bob,,Apparel,Pending,,Excellent
+3,Charlie,300.0,Electronics,Complete,500.0,Error
+4,David,250.0,Home Goods,Cancelled,,Null Value
+5,Eve,150.0,Apparel,Complete,300.0,Clean
+6,Frank,,Apparel,Error,100.0,Error Message
+7,Grace,200.0,Electronics,Pending,200.0,Needs Review
+8,Alice,150.0,Apparel,Complete,200.0,Duplicate
+9,Henry,400.0,Home Goods,Complete,300.0,In Progress
+10,Eve,500.0,Apparel,Cancelled,500.0,
